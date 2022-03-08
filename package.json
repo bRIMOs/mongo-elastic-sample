@@ -1,7 +1,7 @@
 {
-  "name": "quiz-mananger-backend-api",
+  "name": "elsatic-mongo-test",
   "version": "1.0.0",
-  "description": "quiz manager backend node js API ",
+  "description": "elsatic search mongodb integration sample project",
   "main": "index.js",
   "scripts": {
     "start": "nodemon",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bRIMOs/quiz-mananger-backend-api.git"
+    "url": "git+https://github.com/bRIMOs/mongo-elastic-sample.git"
   },
   "keywords": [
     "nodejs;expressjs;"
@@ -17,9 +17,9 @@
   "author": "Bourbia Brahim",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/bRIMOs/quiz-mananger-backend-api/issues"
+    "url": "https://github.com/bRIMOs/mongo-elastic-sample/issues"
   },
-  "homepage": "https://github.com/bRIMOs/quiz-mananger-backend-api#readme",
+  "homepage": "https://github.com/bRIMOs/mongo-elastic-sample#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
